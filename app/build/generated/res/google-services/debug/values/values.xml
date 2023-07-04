@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">322932143215-0tb780k88sq3eih28hk8ng359dc2jv84.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">322932143215</string>
+    <string name="google_api_key" translatable="false">AIzaSyCsHD_YIVv54PMHjf-H9rnDosKwq6v36xY</string>
+    <string name="google_app_id" translatable="false">1:322932143215:android:9655d86341a1df3b63099a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCsHD_YIVv54PMHjf-H9rnDosKwq6v36xY</string>
+    <string name="google_storage_bucket" translatable="false">travelands-firebase.appspot.com</string>
+    <string name="project_id" translatable="false">travelands-firebase</string>
+</resources>
